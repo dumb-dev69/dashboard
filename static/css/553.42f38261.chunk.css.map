@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/553.42f38261.chunk.css","mappings":"AAAA,mCACI,YAAa,CACb,kBAAmB,CACnB,cAAe,CACf,QAAS,CACT,sBACJ","sources":["componets/Home/Home.module.css"],"sourcesContent":[".quick-links-container{\r\n    display: flex;\r\n    flex-direction: row;\r\n    flex-wrap: wrap;\r\n    gap: 12px;\r\n    justify-content: center;\r\n}\r\n"],"names":[],"sourceRoot":""}
